@@ -12,5 +12,5 @@ Before running this project, ensure you have Python(Anaconda) installed on your 
 git clone https://github.com/AnastasiiaReznichenko/boston_airbnb.git
 ```
 
-###Data
+### Data
 Data used is open source from here: https://www.kaggle.com/datasets/airbnb/boston
