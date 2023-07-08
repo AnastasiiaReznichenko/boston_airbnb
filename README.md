@@ -1,6 +1,12 @@
  # Boston Travel tips based on "Boston Airbnb Open Data" 
 
-Using "Boston Airbnb Open Data" we analyzed and found a way to save some money on a trip to Boston
+Using "Boston Airbnb Open Data" we analyzed and found a way to save some money on a trip to Boston.
+
+Key questions we wanted to answer:
+* When is the high season to travel to Boston?
+* Is there a significant price change for accommodation?
+* All the cities raise prices in high season, if yes then by what percent?
+* Is there any connection between price, distance from the city center, and satisfaction with the stay?
 
 ## Getting Started
 
