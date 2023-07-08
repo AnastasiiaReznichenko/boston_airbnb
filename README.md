@@ -34,5 +34,5 @@ pip install -r requirements.txt
 Blog post: https://medium.com/@nastyareznichenko/travelling-to-boston-how-to-visit-boston-on-a-budget-5e9accab79d9
 
 ### Licensing, Authors, and Acknowledgment
-Data source: https://www.kaggle.com/datasets/airbnb/boston 
+Data source: https://www.kaggle.com/datasets/airbnb/boston <br />
 License: MIT License
