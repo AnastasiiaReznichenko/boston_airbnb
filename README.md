@@ -26,9 +26,10 @@ pip install -r requirements.txt
 
 ### Files description
 * AirBnB_Boston.ipynb: Main notebook, containing data analysis
-* listing.csv: Listings, including full descriptions and average review score
-* reviews.csv: Reviews, including unique id for each reviewer and detailed comments
-* calendar.csv: Calendar, including listing id and the price and availability for that day
+* Data.zip: zip folder, containing required data:
+  * listing.csv: Listings, including full descriptions and average review score
+  * reviews.csv: Reviews, including unique id for each reviewer and detailed comments
+  * calendar.csv: Calendar, including listing id and the price and availability for that day
 
 ### Results summary:
 Blog post: https://medium.com/@nastyareznichenko/travelling-to-boston-how-to-visit-boston-on-a-budget-5e9accab79d9
