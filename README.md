@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ```
 
 ### Files description
-AirBnB_Boston.ipynb: Main notebook, containing data analysis
+AirBnB_Boston.ipynb: Main notebook, containing data analysis \n
 listing.csv: Listings, including full descriptions and average review score
 reviews.csv: Reviews, including unique id for each reviewer and detailed comments
 calendar.csv: Calendar, including listing id and the price and availability for that day
